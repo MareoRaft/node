@@ -1,3 +1,8 @@
+# node things
+.settings*
+.history*
+
+# perl things
 /blib/
 /.build/
 _build/
@@ -18,3 +23,4 @@ nytprof.out
 *.o
 *.bs
 /_eumm/
+
